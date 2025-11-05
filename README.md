@@ -1,6 +1,6 @@
 # DS-GA-1008-DeepLearning
 
-This repository contains my notes and key takeaways from **DS-GA: Deep Learning**, a graduate-level course taught by **Joan Bruna**, **Yann LeCun**, and **Alfredo Canziani** at NYU.
+This repository contains my notes and homework from **DS-GA: Deep Learning**, a graduate-level course taught by **Joan Bruna**, **Yann LeCun**, and **Alfredo Canziani** at NYU.
 
 The course focuses on the theoretical foundations and practical implementations of modern deep learning models, covering both supervised and unsupervised representation learning.
 
